@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>a</key>
+	<array>
+		<dict>
+			<key>word</key>
+			<string>array</string>
+			<key>meaning</key>
+			<string>Mảng</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>anxious</string>
+			<key>meaning</key>
+			<string>Lo âu</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>angry</string>
+			<key>meaning</key>
+			<string>Tức giận</string>
+		</dict>
+	</array>
+	<key>b</key>
+	<array>
+		<dict>
+			<key>word</key>
+			<string>box</string>
+			<key>meaning</key>
+			<string>Hộp</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>bill</string>
+			<key>meaning</key>
+			<string>Hoá đơn</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>bullet</string>
+			<key>meaning</key>
+			<string>Đạn</string>
+		</dict>
+	</array>
+	<key>c</key>
+	<array>
+		<dict>
+			<key>word</key>
+			<string>code</string>
+			<key>meaning</key>
+			<string>Mã</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>crystal</string>
+			<key>meaning</key>
+			<string>Tinh thẻ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>card</string>
+			<key>meaning</key>
+			<string>Thiếp, thẻ, quân bài</string>
+		</dict>
+	</array>
+	<key>d</key>
+	<array>
+		<dict>
+			<key>word</key>
+			<string>digit</string>
+			<key>meaning</key>
+			<string>Số</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>data</string>
+			<key>meaning</key>
+			<string>Dữ liệu</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>diamond</string>
+			<key>meaning</key>
+			<string>Kim Cương</string>
+		</dict>
+	</array>
+	<key>e</key>
+	<array>
+		<dict>
+			<key>word</key>
+			<string>essay</string>
+			<key>meaning</key>
+			<string>Tiểu luận</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>easy</string>
+			<key>meaning</key>
+			<string>Dễ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>essential</string>
+			<key>meaning</key>
+			<string>Cốt yếu</string>
+		</dict>
+	</array>
+	<key>f</key>
+	<array>
+		<dict>
+			<key>word</key>
+			<string>free</string>
+			<key>meaning</key>
+			<string>Tự do</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>finger</string>
+			<key>meaning</key>
+			<string>Ngón tay</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>fork</string>
+			<key>meaning</key>
+			<string>Cái nĩa</string>
+		</dict>
+	</array>
+	<key>g</key>
+	<array/>
+	<key>h</key>
+	<array/>
+	<key>i</key>
+	<array/>
+	<key>j</key>
+	<array/>
+	<key>k</key>
+	<array/>
+	<key>l</key>
+	<array/>
+	<key>m</key>
+	<array/>
+	<key>n</key>
+	<array/>
+	<key>o</key>
+	<array/>
+	<key>p</key>
+	<array/>
+	<key>q</key>
+	<array/>
+	<key>r</key>
+	<array/>
+	<key>s</key>
+	<array/>
+	<key>t</key>
+	<array/>
+	<key>u</key>
+	<array/>
+	<key>v</key>
+	<array/>
+	<key>w</key>
+	<array/>
+	<key>x</key>
+	<array/>
+	<key>y</key>
+	<array/>
+	<key>z</key>
+	<array/>
+</dict>
+</plist>
